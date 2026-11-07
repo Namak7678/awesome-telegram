@@ -127,6 +127,7 @@ Join our supergroup on Telegram: [![@awesometelegram](https://img.shields.io/bad
 * [@mybestfriend_ai_en_bot](https://t.me/mybestfriend_ai_en_bot?start=src_github) – ChatPal, an AI friend you can chat with in your language, with quizzes and games for groups.
 * [@MyHoldFolioBot](https://t.me/MyHoldFolioBot?start=awesome) – Logs coin holdings and values a crypto portfolio live, with PnL against your cost basis, hourly snapshots, and a 7-day history. Free tier, one-time 150 Stars Pro upgrade, Mini App included.
 * [@mynudgebot](https://t.me/mynudgebot) – Proactive reminders and a morning briefing for tasks you capture by text or voice note, in your own language.
+* [@N3mak_bot](https://t.me/N3mak_bot) – N3mak AI Gateway: OpenAI-compatible API (https://n3mak-gateway.n3mak.workers.dev/v1); free /trial 24h / 20 requests/day; Pioneer $3; https://n3mak-buy.vercel.app/.
 * [@nosticker_bot](https://t.me/nosticker_bot) – Removes any sticker posted to the group
 * [@NudgeRemindBot](https://t.me/NudgeRemindBot?start=awesome) – Sets reminders using six time input formats. Free tier, one-time 150 Stars Pro upgrade, Mini App included.
 * [@OmniGest_bot](https://t.me/OmniGest_bot) – Free all-in-one Telegram group management bot with anti-spam, captcha, AI moderation, custom commands, welcome messages, and a web dashboard.
